@@ -27,3 +27,5 @@ export const MusicCover = styled.Image`
 export const MusicNameAndArtist = styled.View`
   flex-direction: column;
 `;
+
+export const PlayButton = styled.TouchableOpacity``;
